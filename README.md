@@ -1,6 +1,6 @@
 # The goal of this repo is to assess potential new backend developer trainees
 
-## Using the command line and git
+## Getting started with the command line and git
 
 [Git](https://git-scm.com/) is a powerful distibuted version control system. At Eventmaker we work exclusively with Git and [Github](https://github.com/).
 
@@ -10,8 +10,10 @@ For this interview you will work not on the **master** branch (we never do that 
 
 ## Object oriented
 
-## Web development and relational database
+Go [here](object-oriented.md)
 
-## Writing some codes
+## Web development
+
+Go [here](web-development.md)
 
 
