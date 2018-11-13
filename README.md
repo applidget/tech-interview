@@ -1,4 +1,4 @@
-# The goal of this repo is to assess potential new backend developer trainees
+# Eventmaker tech interview
 
 ## Getting started with the command line and git
 
@@ -17,3 +17,13 @@ Go [here](object-oriented.md)
 Go [here](web-development.md)
 
 
+## Note for the interviewer
+
+This test should be run on a mac with
+* a code editor (vs-code, atom or sublime)
+* ruby
+* git
+* (how my zsh ?)
+* TODO add more for the react part
+
+Test duration is about 1h, the candidate can use internet and look for answers. He may also ask questions any time he/she wants.
