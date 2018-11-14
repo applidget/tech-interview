@@ -23,9 +23,8 @@ This test should be run on a mac with
 * a code editor (vs-code, atom or sublime)
 * ruby
 * git
-* (how my zsh ?)
-* TODO add more for the react part
+* a Terminal (with how my zsh ?)
 
 Test duration is about 1h, the candidate can use internet and look for answers. He may also ask questions any time he/she wants.
 
-To start the test make this repo public and let the candidate clone it. This repo should me made private again at the en of the test.
+To start the test make this repo public and let the candidate clone it. **This repo should be made private again at the en of the test**.
