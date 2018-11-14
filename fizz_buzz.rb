@@ -40,3 +40,5 @@ fizzbuzz = FizzBuzz.new(10, 3, 5)
 
 # starting the FizzBuzz
 fizzbuzz.perform
+
+# to run this programm: ruby fizz_buzz.rb
