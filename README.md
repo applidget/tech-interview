@@ -1,6 +1,6 @@
 # Eventmaker tech interview
 
-## Getting started with the command line and git
+## 1 - Getting started with the command line and git
 
 [Git](https://git-scm.com/) is a powerful distibuted version control system. At Eventmaker we work exclusively with Git and [Github](https://github.com/).
 
@@ -8,13 +8,17 @@ The first step of this interview is to clone this repository onto your computer 
 
 For this interview you will work not on the **master** branch (we never do that 😊) but on a branch that will contain your work only. Go ahead and create a new branch name `eventmaker-interview`.
 
-## Object oriented
+## 2 - Object oriented programming
 
-Go [here](object-oriented.md)
+Congratulations on completing the first setp 💪
 
-## Web development
+Please follow the instructions [here](object-oriented.md).
 
-Go [here](web-development.md)
+## 3 - Web development
+
+Last step in this interview ! Don't worry, you're almost done 👍.
+
+Go ahead and follow the instructions [here](web-development.md).
 
 
 ## Note for the interviewer
