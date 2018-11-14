@@ -18,5 +18,11 @@ And how would you query the user's `account` if you have the `user` ?
 
 ## Write some code ... in react :)
 
-TODO: same react test we use to do
+Go into the `react` folder of this project and then run :
+
+- `npm install` (this will install dependencies)
+- `npm start` (this will start a webserver)
+
+This app is a simple TODO app. You can add a TODO and delete a TODO. You have to change this code so the TODO are not text anymore but images. For example, if you copy paste this : `https://media.mnn.com/assets/images/2018/07/cat_eating_frozen_treat.jpg.653x0_q80_crop-smart.jpg` in the input, the image should be displayed on the page.
+
 
