@@ -30,7 +30,7 @@ class FizzBuzz
   attr_accessor :factor_trigerring_buzz
 
   def perform
-    # TODO here code you fizz buzz, printing on screen is done
+    # TODO here code you fizz buzz, printing on screen should be done with an instance of the Logger class
 
   end
 end
