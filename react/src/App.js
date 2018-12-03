@@ -32,7 +32,7 @@ class App extends Component {
 
   render() {
     const list = this.state.todos.map ((todo, idx) => {
-      return <li><span>{todo}</span> <button onClick={this.handleDelete(idx)}>supprimer </button></li>
+      return <li key={idx}><span>{todo}</span> <button onClick={this.handleDelete(idx)}>supprimer </button></li>
     });
     return (
       <div>
