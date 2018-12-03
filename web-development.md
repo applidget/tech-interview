@@ -27,5 +27,7 @@ This app is a simple TODO app. You can add a TODO and delete a TODO. You have to
 
 <img src="./example.png"/>
 
+If the input is not a an image, a simple text should be displayed. For example if I input "buy some tomatoes", I wan't to see thee text and not a broken image.
+
 
 
